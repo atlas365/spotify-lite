@@ -1,0 +1,9 @@
+.horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.info {
+  padding-left: 20px !important;
+}

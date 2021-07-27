@@ -1,0 +1,18 @@
+.row-align {
+  display: flex;
+  flex-direction: row;
+}
+
+.align-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.space-left {
+  margin-left: 10px;
+}
+
+.track-name {
+  font-weight: bold;
+}

@@ -1,0 +1,16 @@
+.my-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.header-spotify {
+  display: flex;
+  align-items: center;
+  font-size: 48px;
+  color: #999;
+}
+
+.header-lite {
+  margin-left: 5px;
+}
